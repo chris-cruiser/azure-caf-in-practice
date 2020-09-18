@@ -23,7 +23,7 @@ Um die Diskussion beim Kunden zu den Phasen **Strategy**, **Plan** und **Ready**
 
 #### Gedankenspiel
 
-Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](../ICB-caf-in-practice/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
+Wir teilen uns in zwei Gruppen auf. Jede Gruppe versucht auf Basis [dies Briefings](/0_common/briefing-gruppe1.md), einige der initialen Fragen zu beantworten, um sich potentiellen Vorgaben für die Cloud Adaption zu nähern.
 
 Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 
@@ -39,7 +39,7 @@ Folgende Fragen sollen helfen die ersten gewünschten Ergebnisse zu erhalten:
 
 ## Governance
 
-Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](../ICB-caf-in-practice/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
+Um die Governance Diskussion mit dem Kunden treiben zu können bieten wir folgendes [Slide Deck](/7_governance/Cloud&#32;Adoption&#32;Framework&#32;-&#32;Thru&#32;Partner&#32;Governance&#32;Workshop.pptx) an.
 
 <details><summary> Übung Governance </summary><p>
 
@@ -56,6 +56,7 @@ Ausgehen von der Kundensituation aus der Übung oben, sollten nun die ersten Clo
 Da Azure Policies eine wichtige Rolle spielen im Rahmen der Governance gern [folgende Lektion](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/) aus unserem Learning Portal durchspielen.
 </p></details>
 
+
 ## Adopt Migration / Innovation
 
 In der Adopt Phase liegen viele Themen und Bereiche die auf der Reise in die Cloud weiteres Wissen benötigen. In Bezug auf die Migration von Workloads haben wir auf der Azure Partnerseite ein [Migration Slide Deck](https://www.microsoft.com/azure/partners/resources/download/migration-conversation) bereitgestellt.
@@ -69,3 +70,6 @@ In der Adopt Phase liegen viele Themen und Bereiche die auf der Reise in die Clo
 [Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 [Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+
+[Microsoft Partner Community](https://www.microsoftpartnercommunity.com/t5/Cloud-Adoption-Framework/gp-p/CloudAdoption)
+Wenn Ihr noch nicht der Microsoft Partner Community beigetreten seid, bitte erst mal über SignIn (oben rechts) anmelden und dann der CAF-Community beitreten.
